@@ -16,5 +16,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Narzaru&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narzaru&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<details> <summary>stats </summary>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Narzaru&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narzaru&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</details>
