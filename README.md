@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently studying at school 21<br>
-🌱 I’m currently learning C++<br>
+🌱 I’m currently learning C++ and trying my hand at leetcode<br>
 🔎 Looking for C++ full time job<br>
 ⚡ Fun fact, looak at my avatar
 
