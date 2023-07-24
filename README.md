@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram)](https://t.me/yourlx)
+[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram)](https://t.me/narzaru)
 
 
 # 💻 Tech Stack:
