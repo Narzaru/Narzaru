@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently studying at school 21<br>
-🌱 I’m currently learning C++ and trying my hand at leetcode<br>
-🔎 Looking for C++ full time job<br>
+🔭 I’m currently studying at School 21<br>
+🌱 I’m currently learning C++ and trying my hand at Leetcode<br>
+🔎 Looking for a C++ full time job<br>
 ⚡ Fun fact, look at my avatar
 
 
