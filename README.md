@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently studying at School 21<br>
-🌱 I’m currently learning C++ and trying my hand at Leetcode<br>
-🔎 Looking for a C++ full time job<br>
-⚡ Fun fact, look at my avatar
+В данный момент являюсь C# .net разработчиком в компании Nanosoft<br>
+Интересуюсь и веду проект на C++ <br>
+Имею крутую аватарку 😭
 
 
 ## 🌐 Socials:
